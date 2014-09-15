@@ -1,0 +1,37 @@
+{
+  "name": "biohacker",
+  "version": "1.0.0",
+  "description": "A nodeschool workshop for learning how to use bionode for bioinformatics",
+  "main": "index.js",
+  "bin": {
+    "biohacker": "cli.js"
+  },
+  "author": "Bruno Vieira",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "adventure": "^2.4.0",
+    "adventure-verify": "^2.2.0",
+    "ansimd": "0.0.1",
+    "through2": "^0.6.1",
+    "tool-stream": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bionode/biohacker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bionode/biohacker/issues"
+  },
+  "homepage": "https://bionode.io",
+  "keywords": [
+    "bio",
+    "biology",
+    "bioinformatics",
+    "bionode",
+    "streams",
+    "cli",
+    "science",
+    "tutorial"
+  ]
+}
