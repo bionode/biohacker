@@ -1,3 +1,3 @@
 FROM nodeschool/base
 
-RUN npm install biohacker bionode tool-stream json -g
+RUN npm install -g biohacker bionode tool-stream json
